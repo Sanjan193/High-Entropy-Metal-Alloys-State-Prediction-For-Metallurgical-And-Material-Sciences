@@ -3,9 +3,7 @@
 
 The High Entropy Alloys(HEA) data available in the literature provides an opportunity to use Machine Learning (ML) algorithms for identifying the composition space or predicting the phase formation for a particular composition. ML is used in many fields of material science like energy applications.
 ## About The Data
-The initial dataset contains collection of 1,361 High Entropy Alloy records containing elemental composition, thermodynamic properties, processing parameters, and microstructural and enthalpy related information. I used the dataset to investigate alloy-state classification through exploratory analysis and comparative machine learning, with and without PCA.
-To Explore about the Dataset and full article about the research [Click Here](https://www.sciencedirect.com/science/article/pii/S2352340921006302?via%3Dihub)
-And got overall increased models accuracy later.
+The initial dataset contains collection of 1,361 High Entropy Alloy records containing elemental composition, thermodynamic properties, processing parameters, and microstructural and enthalpy related information. I used the dataset to investigate alloy-state classification through exploratory analysis and comparative machine learning, with and without PCA (To Explore about the Dataset and full article about the research [Click Here](https://www.sciencedirect.com/science/article/pii/S2352340921006302?via%3Dihub)) and got overall increased models accuracy later.
 ## About The Project
   1. [Data Cleaning](Notebooks/Data_cleaning.ipynb)
      
